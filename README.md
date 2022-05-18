@@ -1,6 +1,6 @@
 # Emotion_detection_in_Classroom
 
-- Program made to gauge the overall classroom emotions during class and understand .
+- Program made to gauge the classroom emotions during class and understand overall attentiveness.
 - Includes login page for faculty to sign in; Uses Fernet encryption to store user data.
 
 ## Packages need to be installed
