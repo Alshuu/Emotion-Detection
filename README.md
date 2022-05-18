@@ -1,5 +1,8 @@
 # Emotion_detection_in_Classroom
 
+- Program made to gauge the overall classroom emotions during class and understand .
+- Includes login page for faculty to sign in; Uses Fernet encryption to store user data.
+
 ## Packages need to be installed
 pip install numpy
 pip install opencv-python
